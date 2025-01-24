@@ -8,7 +8,7 @@ contained access to new recipes. Their personal computers have been operating sl
 server but noticed they were locked out of their account. 
 
 ### Key Findings
-1. Untorized download
+1. Unauthorized download
 2. Potential password breach
 
 
